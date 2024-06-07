@@ -1,6 +1,8 @@
   <h1 align='center'>Hi, am I |X|?</h1>
   <h2 align="center">About me:</h2>
-  <p>Hello! I'm a web developer specializing in React. My experience includes working with core React concepts such as components, state, and lifecycle. I'm passionately learning and striving for growth in this field, seeking opportunities to enhance my skills and build innovative web applications. My goal is to become a proficient developer contributing to the advancement of web technologies and crafting amazing user interfaces.</p>
+  <p>Hello! I'm a web developer specializing in React. My experience includes working with core React concepts such as components, state, and lifecycle. I'm passionately learning and striving for growth in this field, seeking opportunities to enhance my skills and build innovative web applications. My goal is to become a proficient developer contributing to the advancement of web technologies and crafting amazing user interfaces.<br />
+  My blog ---> <a href="https://moldvaer23.github.io/my-blog/">here</a>
+  </p>
 
   <p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Passionate+Junior+React+Developer+;Crafting+Innovative+Web+Experiences"/></a><p>
     <h2 align="center">Languages:</h2>
