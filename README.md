@@ -1,2 +1,45 @@
-<!-- icon666.com - MILLIONS vector ICONS FREE --><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 455.111 455.111" style="enable-background:new 0 0 455.111 455.111;" xml:space="preserve"><path style="fill: rgb(0, 0, 0);" d="M406.756,455.111h-358.4C21.333,455.111,0,433.778,0,406.756v-358.4C0,21.333,21.333,0,48.356,0 h358.4c27.022,0,48.356,21.333,48.356,48.356v358.4C455.111,433.778,433.778,455.111,406.756,455.111z" fill="#5CA4DA"></path><path style="fill: rgb(0, 0, 0);" d="M366.933,0c-17.067,73.956-61.156,153.6-129.422,221.867C164.978,294.4,78.222,339.911,0,354.133 V48.356C0,21.333,21.333,0,48.356,0H366.933z" fill="#6DAFE0"></path><g><path style="fill: rgb(121, 186, 236);" d="M341.333,197.689c22.756-39.822,31.289-76.8,11.378-95.289 c-19.911-19.911-55.467-11.378-95.289,11.378c-22.756-39.822-49.778-65.422-76.8-58.311s-36.978,42.667-36.978,88.178 c-45.511,0-81.067,11.378-88.178,36.978c-7.111,27.022,18.489,54.044,58.311,76.8c-22.756,39.822-31.289,76.8-11.378,95.289 c19.911,19.911,55.467,11.378,95.289-11.378c22.756,39.822,49.778,65.422,76.8,58.311c27.022-7.111,36.978-42.667,36.978-88.178 c45.511,0,81.067-11.378,88.178-36.978C406.756,247.467,381.156,220.444,341.333,197.689z M338.489,116.622 c8.533,8.533,4.267,35.556-15.644,69.689c-11.378-5.689-24.178-11.378-38.4-15.644c-4.267-12.8-9.956-25.6-15.644-38.4 C302.933,112.356,328.533,108.089,338.489,116.622z M241.778,281.6c-19.911-4.267-35.556-8.533-54.044-14.222 c-5.689-18.489-9.956-34.133-14.222-54.044c12.8-14.222,24.178-25.6,39.822-39.822c19.911,4.267,35.556,8.533,54.044,14.222 c5.689,18.489,9.956,34.133,14.222,54.044C268.8,257.422,257.422,268.8,241.778,281.6z M285.867,270.222 c1.422,5.689,1.422,12.8,1.422,18.489c-5.689,0-11.378-1.422-18.489-1.422C277.333,278.756,278.756,277.333,285.867,270.222z M220.444,300.089c-5.689,4.267-9.956,7.111-14.222,11.378c-2.844-5.689-5.689-11.378-7.111-17.067 C209.067,295.822,209.067,297.244,220.444,300.089z M162.133,257.422c-5.689-2.844-11.378-4.267-17.067-7.111 c2.844-4.267,7.111-9.956,11.378-14.222C157.867,246.044,159.289,246.044,162.133,257.422z M169.244,184.889 c-1.422-5.689-1.422-12.8-1.422-18.489c5.689,0,11.378,1.422,18.489,1.422C177.778,176.356,176.356,177.778,169.244,184.889z M234.667,155.022c5.689-4.267,9.956-7.111,14.222-11.378c2.844,5.689,5.689,11.378,7.111,17.067 C246.044,159.289,246.044,157.867,234.667,155.022z M292.978,197.689c5.689,2.844,11.378,4.267,17.067,7.111 c-2.844,4.267-7.111,9.956-11.378,14.222C297.244,209.067,295.822,209.067,292.978,197.689z M187.733,76.8 c11.378-2.844,32.711,14.222,52.622,48.356c-11.378,7.111-21.333,15.644-32.711,24.178c-14.222-2.844-27.022-4.267-41.244-5.689 C166.4,105.244,174.933,79.644,187.733,76.8z M76.8,187.733c2.844-11.378,28.444-21.333,68.267-21.333 c1.422,12.8,2.844,27.022,5.689,41.244c-8.533,11.378-17.067,21.333-24.178,32.711C91.022,219.022,73.956,199.111,76.8,187.733z M116.622,338.489c-8.533-8.533-4.267-35.556,15.644-69.689c11.378,5.689,24.178,11.378,38.4,15.644 c4.267,12.8,9.956,25.6,15.644,38.4C152.178,342.756,126.578,347.022,116.622,338.489z M267.378,378.311 c-11.378,2.844-32.711-14.222-52.622-48.356c11.378-7.111,21.333-15.644,32.711-24.178c14.222,2.844,27.022,4.267,41.244,5.689 C288.711,349.867,280.178,375.467,267.378,378.311z M378.311,267.378c-2.844,11.378-28.444,21.333-68.267,21.333 c-1.422-12.8-2.844-27.022-5.689-41.244c8.533-11.378,17.067-21.333,24.178-32.711C364.089,236.089,381.156,256,378.311,267.378z" fill="#FFFFFF"></path><circle style="fill: rgb(121, 186, 236);" cx="227.556" cy="227.556" r="31.289" fill="#FFFFFF"></circle></g></svg>
+<h2 align="center">Привет всем меня зовут Владимир👋</h2>
+
+### :man_technologist: About Me
+
+<p>Я Фронтенд-разработчик из россии <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</p>
+
+<ul>
+    <li>✍ Я люблю создавать что-то новое или улучшать старое, доводя его до полноценного качественного продукта, которыми можно с удовольствием пользоваться.</li>
+    <li>🏃 Стремлюсь к улучшению своих навыков и расширению своего опыта.</li>
+    <li>🌐 Хочу найти команду, с которой я мог бы вместе создавать что-то приносящее пользу людям.</li>
+    <li>💻 <b>Я сейчас активно ищу работу.</b> <a href="https://saratov.hh.ru/resume/2b96c27aff0d8f54f40039ed1f725437626c31">Вот мое резюме</a>.</li>
+</ul>
+
+---
+
+### :hammer_and_wrench: Languages and Tools
+
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5" alt="Html" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css3" alt="Css" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg" title="React Router DOM" alt="React Router DOM" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+<h3 align="center"><b>📫My contacts</b></h3>
+<div id="badges">
+    <p align="center"><a href="https://t.me/Buagette">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    </a></p>
+    <p align="center"><a href="mailto:work.volkovvova67@gmail.com">work.volkovvova67@gmail.com</a></p></p>
+</div>
+
+
+
 
