@@ -1,4 +1,4 @@
-<h2 align="center">Привет всем меня зовут Владимир👋</h2>
+<h2 align="center">Привет всем, меня зовут Владимир👋</h2>
 
 ### :man_technologist: About Me
 
