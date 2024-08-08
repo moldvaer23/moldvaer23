@@ -38,7 +38,7 @@
     <p align="center"><a href="https://t.me/Buagette">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
     </a></p>
-    <p align="center"><a href="mailto:work.volkovvova67@gmail.com">work.volkovvova67@gmail.com</a></p></p>
+    <p align="center"><a href="mailto:work.volkov55@mail.ru">work.volkov55@mail.ru</a></p></p>
 </div>
 
 
